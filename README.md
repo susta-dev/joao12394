@@ -1,14 +1,8 @@
-## Olá, me chamo susta 👋
+### Olá, me chamo susta 👋
 
-_Sou especialista em..._
-------------------------
-- html
-------------------------
-- css
-------------------------
-- javascript
-------------------------
-- python
-------------------------
-- Moderação do discord
-------------------------
+- hoje trabalho como front-end
+------------------------------
+- Especialista python
+------------------------------
+- Sou manager servers discord
+------------------------------
