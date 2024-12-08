@@ -2,7 +2,8 @@
 
 - desenvolvedor front-end
 
-- 
+- moderador discord
+
 ## 🔨 Language and Tools
 
 <div style="display: inline_block"><br>
