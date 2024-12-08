@@ -4,6 +4,9 @@
 
 - moderador discord
 
+- Aprendendo node.js/typescript
+
+  
 ## 🔨 Language and Tools
 
 <div style="display: inline_block"><br>
