@@ -15,6 +15,6 @@
 
 ## ✌️ Skills
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joao12394&show_icons=true&theme=dracula&locale=en&layout=compact" alt="arthurdevleal" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=susta-dev&show_icons=true&theme=dracula&locale=en&layout=compact" alt="arthurdevleal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joao12394&theme=dark" alt="arthurdevleal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susta-dev&theme=dark" alt="arthurdevleal" /></p>
